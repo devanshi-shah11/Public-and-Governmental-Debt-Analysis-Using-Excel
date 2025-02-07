@@ -25,8 +25,10 @@ _Data Transformation:_ The raw data was structured into a more usable format, wi
 _Graphical Representation_: Using Excel’s built-in charting tools, several key visualizations were created to depict debt trends over time:
 
 _Line Charts:_ Line charts were created for each debt category to show the trends in U.S. debt over time.
+
 _Percentage Change Visualizations:_ Line charts and bar charts were used to visualize the yearly and monthly percentage changes in public debt, helping to identify patterns in debt growth or reduction.
-Conditional Formatting: To emphasize significant changes in the debt, conditional formatting was applied to certain cells in the dataset. This helps highlight key trends and periods of high or low growth.
+
+_Conditional Formatting:_ To emphasize significant changes in the debt, conditional formatting was applied to certain cells in the dataset. This helps highlight key trends and periods of high or low growth.
 
 _Dashboard Creation:_ A dashboard was designed in Excel to bring together all the key visualizations and data in one place for easy access and quick insights. This dashboard includes interactive features like drop-down menus to filter data by specific categories or timeframes.
 
@@ -35,6 +37,7 @@ Yearly and Monthly Percentage Change:
 
 The yearly percentage change was calculated to analyze the growth or reduction in public debt from one year to the next. This helps in understanding long-term trends in debt accumulation.
 Similarly, the monthly percentage change was computed to identify short-term fluctuations in public debt.
+
 _Trend Analysis:_ By applying statistical formulas, trends were examined for debt growth in different periods, with insights into periods of rapid debt increase or stability.
 
 _Projection of Debt Growth:_ Using historical data, projections were made for future debt growth. Simple linear regression techniques were applied to predict future trends, assuming that past growth patterns would continue.
@@ -51,6 +54,7 @@ _Raw Data:_ Contains the daily debt records for the selected categories.
 
 _Cleaned Data_:
 Processed data ready for analysis.
+
  Yearly Percentage Change: Analysis of debt changes on a yearly basis.
  
  Monthly Historicals: Monthly debt trends and calculations.
