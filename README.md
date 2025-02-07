@@ -48,9 +48,13 @@ _Download the Excel File:_ You can access the debt data and analysis directly fr
 _Review the Sheets:_ The file contains multiple sheets:
 
 _Raw Data:_ Contains the daily debt records for the selected categories.
+
 _Cleaned Data_:
 Processed data ready for analysis.
-    Yearly Percentage Change: Analysis of debt changes on a yearly basis.
-    Monthly Historicals: Monthly debt trends and calculations.
-    Projected Growth: A forecast of future debt growth.
+ Yearly Percentage Change: Analysis of debt changes on a yearly basis.
+ 
+ Monthly Historicals: Monthly debt trends and calculations.
+ 
+Projected Growth: A forecast of future debt growth.
+
 _Final Outputs:_ Final results of the analyses, including a summary of key insights.
